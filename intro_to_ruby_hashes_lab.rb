@@ -30,7 +30,7 @@ def monopoly_with_third_tier
 	      euro: 29,
 	      yin: 929
 	    },
-	    :names => {}
+	    :names => { longIsland: "LIRR", metropoliton: "MTA", chicagoRail: "CRR", atlantic: "AIRR"}
 	  } 
 	}
 end
