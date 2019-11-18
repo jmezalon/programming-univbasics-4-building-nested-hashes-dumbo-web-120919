@@ -32,7 +32,7 @@ def monopoly_with_third_tier
 	    },
 	    :names => { 
 	      :reading_railroad => {}, 
-	      metropoliton: "MTA", 
+	      :pennsylvania_railroad => {}, 
 	      chicagoRail: "CRR", 
 	      atlantic: "AIRR"}
 	  } 
