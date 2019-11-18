@@ -26,9 +26,9 @@ def monopoly_with_third_tier
 	    pieces: 4, 
 	    :rent_in_dollars => {
 	      one_piece_owned: 25,
-	      pesso: 23,
-	      euro: 29,
-	      yin: 929
+	      two_piece_owned: 50,
+	      three_piece_owned: 75,
+	      four_piece_owned: 100
 	    },
 	    :names => { longIsland: "LIRR", metropoliton: "MTA", chicagoRail: "CRR", atlantic: "AIRR"}
 	  } 
